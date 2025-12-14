@@ -1,17 +1,56 @@
-### Hi there 👋 I'm Mohammed Al Shayah
+## Hi there 👋 I'm Mohammed Al-Shayah
 
-<!--
-**Mohammed-Al-Shayah/Mohammed-Al-Shayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966
+🚀 **Software Engineer | Flutter Developer**
 
-Here are some ideas to get you started:
+I'm a passionate software engineer specializing in **Flutter mobile development**, with experience building scalable, clean, and production-ready applications for both **Android & iOS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🎓 Bachelor’s Degree in **Computer Systems Engineering**
+- 📱 Specialized in **Flutter & Dart**
+- 🧠 Strong understanding of **Clean Architecture**, **OOP**, and **State Management**
+- 🌍 Based in **Gaza, Palestine**
+- 💼 Worked on real-world apps in **security systems, licensing, and service platforms**
+
+---
+
+### 🛠 Tech Stack
+- **Mobile:** Flutter, Dart  
+- **State Management:** Bloc / Cubit, Provider, Riverpod  
+- **Backend & APIs:** REST APIs, Firebase  
+- **Databases:** SQLite, MySQL  
+- **Tools:** Git, GitHub, Postman, FVM  
+
+---
+
+### 📌 Featured Projects
+- 🔐 **Security Patrol App** – Multi-role system (Admin, Guard, Inspector)
+- 📄 **Licensing Certificate App** – Digital certificate management
+- 🚗 **Service Provider Apps** – Booking & management systems
+
+---
+
+### 🌱 Currently
+- 📚 Learning advanced Flutter architecture & testing
+- 🧩 Improving backend integration & clean code practices
+- 🚀 Preparing for professional & freelance opportunities
+
+---
+
+### 🤝 Let’s Collaborate
+I'm open to collaborating on:
+- Flutter mobile apps
+- Clean Architecture projects
+- Startup & MVP development
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **mohammedalshayah@gmail.com**
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-al-shayah-a42261222/]
+
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
