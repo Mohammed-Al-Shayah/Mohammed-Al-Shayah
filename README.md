@@ -1,56 +1,77 @@
 ## Hi there 👋 I'm Mohammed Al-Shayah
 
-🚀 **Software Engineer | Flutter Developer**
+🚀 **Software Engineer | Flutter & Laravel Developer**
 
-I'm a passionate software engineer specializing in **Flutter mobile development**, with experience building scalable, clean, and production-ready applications for both **Android & iOS**.
+I’m a software engineer specializing in **mobile app development with Flutter** and **backend development with Laravel**, focused on building clean, scalable, and production-ready applications.
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Bachelor’s Degree in **Computer Systems Engineering**
-- 📱 Specialized in **Flutter & Dart**
-- 🧠 Strong understanding of **Clean Architecture**, **OOP**, and **State Management**
+- 📱 Flutter Developer (Android & iOS)
+- 🧠 Strong understanding of **Clean Architecture & OOP**
 - 🌍 Based in **Gaza, Palestine**
-- 💼 Worked on real-world apps in **security systems, licensing, and service platforms**
+- 💼 Experience with real-world production apps
 
 ---
 
 ### 🛠 Tech Stack
-- **Mobile:** Flutter, Dart  
-- **State Management:** Bloc / Cubit, Provider, Riverpod  
-- **Backend & APIs:** REST APIs, Firebase  
-- **Databases:** SQLite, MySQL  
-- **Tools:** Git, GitHub, Postman, FVM  
+
+#### 📱 Mobile Development
+- Flutter, Dart
+- Bloc / Cubit, Provider, Riverpod
+- Clean Architecture
+- REST API Integration
+
+#### ⚙️ Backend Development
+- Laravel, PHP
+- RESTful APIs & API Resources
+- Authentication (Sanctum)
+- MySQL, SQLite
+- Eloquent ORM
+- Middleware, Policies
+
+#### 🧰 Tools & Practices
+- Git & GitHub
+- Postman
+- Firebase
+- MVC & Service Layer
+- Clean Code & Testing Basics
 
 ---
 
 ### 📌 Featured Projects
-- 🔐 **Security Patrol App** – Multi-role system (Admin, Guard, Inspector)
-- 📄 **Licensing Certificate App** – Digital certificate management
-- 🚗 **Service Provider Apps** – Booking & management systems
+- 🔐 **Security Patrol Management System**  
+  Multi-role system (Admin, Manager, Guard) with Laravel backend & Flutter app.
+
+- 📄 **Licensing & Certificates Platform**  
+  Laravel APIs with Flutter frontend for managing licenses and certificates.
+
+- 📱 **Service & Business Apps**  
+  End-to-end solutions using Flutter + Laravel.
 
 ---
 
 ### 🌱 Currently
-- 📚 Learning advanced Flutter architecture & testing
-- 🧩 Improving backend integration & clean code practices
-- 🚀 Preparing for professional & freelance opportunities
+- 📚 Improving Flutter architecture & state management
+- 🔧 Enhancing Laravel API security & performance
+- 🚀 Preparing for freelance & professional opportunities
 
 ---
 
-### 🤝 Let’s Collaborate
-I'm open to collaborating on:
+### 🤝 Open to Collaborate On
 - Flutter mobile apps
-- Clean Architecture projects
-- Startup & MVP development
+- Laravel backend systems
+- Full-stack Flutter + Laravel projects
+- Startup MVPs
 
 ---
 
 ### 📫 Contact Me
 - 📧 Email: **mohammedalshayah@gmail.com**
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-al-shayah-a42261222/]
-
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-al-shayah-a42261222/
+- 🧑‍💻 GitHub: https://github.com/Mohammed-Al-Shayah
 
 ---
 
-⭐ *Feel free to check out my repositories and connect with me!*
+⭐ Feel free to explore my repositories and connect with me!
