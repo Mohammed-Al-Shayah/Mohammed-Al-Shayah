@@ -19,7 +19,7 @@ I’m a software engineer specializing in **mobile app development with Flutter*
 
 #### 📱 Mobile Development
 - Flutter, Dart
-- Bloc / Cubit, Provider, Riverpod
+- Bloc / Cubit, Provider, GetX
 - Clean Architecture
 - REST API Integration
 
