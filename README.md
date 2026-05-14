@@ -69,7 +69,7 @@ I’m a software engineer specializing in **mobile app development with Flutter*
 
 ### 📫 Contact Me
 - 📧 Email: **mohammedalshayah@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-al-shayah-a42261222/
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-al-shayah/
 - 🧑‍💻 GitHub: https://github.com/Mohammed-Al-Shayah
 
 ---
